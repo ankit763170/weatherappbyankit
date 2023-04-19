@@ -12,7 +12,7 @@ body {
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(45deg,rgb(230, 255, 69),rgb(243, 8, 8),rgb(196, 9, 9),rgb(61, 59, 59),rgb(36, 36, 36));
+    background: linear-gradient(45deg,rgb(230, 255, 69),rgb(243, 8, 8),rgb(196, 9, 9));
   
     margin: 100px auto 0;
     border-radius: 20px;
@@ -100,4 +100,8 @@ body {
     max-top:10px;
     display: none;
 
+}
+.result-box ul{
+    border-top: 1px solid #999;
+    padding:15px 10px;
 }
